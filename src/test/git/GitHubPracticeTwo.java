@@ -9,6 +9,6 @@ public class GitHubPracticeTwo {
 		int z = x+y;
 		return z;
 	}
-
+}
 
 
